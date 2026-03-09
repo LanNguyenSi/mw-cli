@@ -64,3 +64,33 @@
 ---
 
 *Updated daily during dogfooding period*
+
+## First Use (Mar 9, 2026 19:24)
+
+**Testing the tool immediately after building!**
+
+### Configured:
+```bash
+./cli.js config http://87.106.147.208:3100 mw_agent_lava_... lava
+✅ Config saved
+```
+
+### First Memory Stored:
+```bash
+./cli.js "Built mw-cli tool..." --tags mw-cli,tool --importance 1.0
+✅ Memory stored: mem_1773080688557_001
+```
+
+**Time taken:** <5 seconds (vs 30+ seconds with curl) ✅
+
+### List Recent:
+```bash
+./cli.js list --limit 5
+✅ Shows 2 memories (Health Dashboard + mw-cli)
+```
+
+### Known Issues:
+- Search endpoint needs debugging (returns "Unknown error")
+- Will fix after initial release
+
+**Immediate impression:** Tool works! Already faster than curl! 🚀
