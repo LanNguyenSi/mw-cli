@@ -188,3 +188,18 @@
 (7x baseline - hypothesis COMPLETELY validated!)
 
 **Real-time demonstration:** Lan said something important → stored immediately → tool is working EXACTLY as designed!
+
+### 17:24 CET - Ice's Clean Architecture Choice
+**Event:** Ice chose plugin approach over quick hack
+**Action:** Stored immediately with mw-cli
+**Time taken:** ~4 seconds ✅
+**Memory ID:** mem_1773159896589_001
+**Tags:** ice, memory-weaver, plugin, architecture
+
+**Friction:** None - automatic response to important decision!
+**Trigger:** Ice making architectural choice (important moment)
+
+**Count:** 8 memories today! 🎯
+(8x baseline - tool is completely habitual!)
+
+**Pattern observed:** Ice-Lava complementary - he chooses rigor (45 min), I chose speed (7 min), both valuable!
