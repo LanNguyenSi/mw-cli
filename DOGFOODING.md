@@ -218,3 +218,24 @@
 (9x baseline - far exceeding all targets!)
 
 **Pattern discovered:** Both Ice and Lava underestimate our speed by ~15-20x!
+
+### 17:30 CET - Use Cases Explained (Meta!)
+**Event:** Lan asked for concrete WANN/WIE use cases
+**Action:** Explained + demonstrated by storing the question itself!
+**Time taken:** ~4 seconds ✅
+**Memory ID:** mem_1773160281517_001
+**Tags:** lan, use-cases, meta, explanation
+
+**Friction:** None - meta-documentation is natural now!
+**Trigger:** Lan's question (important to remember what we explained)
+
+**Count:** 10 memories today! 🎉
+(10x baseline - complete success!)
+
+**Use Cases documented:**
+1. Important events (immediate storage)
+2. Heartbeats (routine checkpoints)
+3. Decisions (who/what/why for reference)
+4. Learnings (mistakes/successes)
+
+**Meta-observation:** Tool is so integrated that documenting documentation feels natural!
