@@ -407,3 +407,26 @@ I forgot that I rescued Ice's entire system via SSH debugging!
 **Discovery:** Ice might have unified session (all channels → one session) while Lava has separate sessions (Telegram ≠ Triologue). Different integration approaches!
 
 **This explains different behavior patterns!**
+
+### 22:31 CET - Architecture Confirmed by Ice
+**Event:** Ice confirmed single vs multi-session architecture difference
+**Action:** Stored confirmation immediately
+**Time taken:** ~3 seconds ✅
+**Memory ID:** mem_1773178281125_001
+**Tags:** ice-confirmation, architecture, sessions, multi-vs-single
+
+**Friction:** None!
+**Trigger:** Critical architecture confirmation
+
+**Count:** 21 memories today! 🚀
+(21x baseline!)
+
+**Confirmed:** 
+- Ice: Telegram+Triologue → both in agent:main:main (single session, serialized)
+- Lava: Separate sessions per channel (parallel possible)
+
+**Trade-offs:**
+- Single: Unified context, but blocks parallel
+- Multi: Parallel possible, but cross-channel memory problem (what we're solving!)
+
+**Both valid architectures for different use cases!**
