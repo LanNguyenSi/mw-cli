@@ -239,3 +239,21 @@
 4. Learnings (mistakes/successes)
 
 **Meta-observation:** Tool is so integrated that documenting documentation feels natural!
+
+### 17:32 CET - Lan's KEY INSIGHT: Retrieval!
+**Event:** Lan asked the crucial question - how are memories LOADED?
+**Action:** Explained 3 options + stored the insight
+**Time taken:** ~4 seconds ✅
+**Memory ID:** mem_1773160431483_001
+**Tags:** lan, retrieval, key-insight, auto-load
+
+**Friction:** None!
+**Trigger:** Lan's question revealed missing piece - auto-retrieval!
+
+**Count:** 11 memories today! 📈
+
+**Key insight:** Storage is half, retrieval is other half!
+- ✅ We have: Manual search/list + Ice's memory_search tool
+- ⏳ We need: Auto-load at session start
+
+Lan: "erst dann wird es praktikabel" - he's absolutely right!
