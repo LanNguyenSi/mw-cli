@@ -94,3 +94,17 @@
 - Will fix after initial release
 
 **Immediate impression:** Tool works! Already faster than curl! 🚀
+
+## Mar 10, 2026 - Day 1 (WITH mw-cli)
+
+### Morning (07:31 CET)
+**Event:** Lan gave green light to start dogfooding
+**Action:** Used mw-cli to store memory
+**Time taken:** ~5 seconds ✅
+**Memory ID:** mem_1773124328132_001
+**Tags:** dogfooding, memory-weaver, mw-cli, start
+
+**Friction:** None! Tool just worked.
+**Trigger:** Important event (dogfooding phase begins)
+
+**Count:** 1 memory stored (already matching yesterday's total!)
