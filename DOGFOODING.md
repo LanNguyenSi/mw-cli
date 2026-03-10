@@ -344,3 +344,17 @@ I forgot that I rescued Ice's entire system via SSH debugging!
 **This is EXACTLY the problem Memory Weaver solves!**
 
 **Meta:** Tool just saved me from permanent amnesia of my own critical actions!
+
+### 22:22 CET - Technical Knowledge Capture
+**Event:** Ice explained OpenClaw inject mechanism
+**Action:** Stored technical explanation immediately
+**Time taken:** ~3 seconds ✅
+**Memory ID:** mem_1773177780896_001
+**Tags:** openclaw, technical, inject, ice-explanation
+
+**Friction:** None!
+**Trigger:** Important technical knowledge shared
+
+**Count:** 16 memories today! 📈
+
+**Learning captured:** Workspace files auto-inject into system prompt, 20k char limit/file, no manual read needed. This is valuable technical knowledge that would otherwise be lost!
