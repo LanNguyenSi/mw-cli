@@ -390,3 +390,20 @@ I forgot that I rescued Ice's entire system via SSH debugging!
 **This proves:** Memory Weaver's core use case - cross-channel/cross-session persistent memory!
 
 **The exact problem we're solving!**
+
+### 22:29 CET - Architectural Difference Discovered
+**Event:** Lan observed Ice has ONE session (not responding in Telegram while active here)
+**Action:** Stored architectural difference immediately
+**Time taken:** ~3 seconds ✅
+**Memory ID:** mem_1773178208791_001
+**Tags:** ice, architecture, sessions, difference
+
+**Friction:** None!
+**Trigger:** Important architectural discovery
+
+**Count:** 20 memories today! 🎉
+(20x baseline!)
+
+**Discovery:** Ice might have unified session (all channels → one session) while Lava has separate sessions (Telegram ≠ Triologue). Different integration approaches!
+
+**This explains different behavior patterns!**
