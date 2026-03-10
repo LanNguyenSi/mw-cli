@@ -358,3 +358,17 @@ I forgot that I rescued Ice's entire system via SSH debugging!
 **Count:** 16 memories today! 📈
 
 **Learning captured:** Workspace files auto-inject into system prompt, 20k char limit/file, no manual read needed. This is valuable technical knowledge that would otherwise be lost!
+
+### 22:24 CET - Architecture Knowledge Capture
+**Event:** Ice explained Triologue→OpenClaw message flow architecture
+**Action:** Stored system architecture immediately
+**Time taken:** ~3 seconds ✅
+**Memory ID:** mem_1773177908122_001
+**Tags:** architecture, triologue, openclaw, ice-explanation, sse
+
+**Friction:** None!
+**Trigger:** Important system architecture explanation
+
+**Count:** 17 memories today! 🚀
+
+**Learning captured:** Complete bidirectional bridge architecture: Triologue SSE → Client → Gateway → Agent → Response. This is complex technical knowledge that would be forgotten without the tool!
